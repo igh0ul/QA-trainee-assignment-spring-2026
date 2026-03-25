@@ -35,7 +35,7 @@
 ## Автотетсты
 
 ### TC-06
-
+ --- 
 #### ThemeToggleTest.java
 
 import io.github.bonigarcia.wdm.WebDriverManager;
@@ -136,6 +136,9 @@ public class ThemeToggleTest {
 }
 
 
+
+
+---
 #### testing.xml
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -149,7 +152,7 @@ public class ThemeToggleTest {
 </suite>
 
 
-
+---
 
 
 
@@ -214,7 +217,7 @@ public class ThemeToggleTest {
 </project>
 
 
-
+--- 
 
 
 
