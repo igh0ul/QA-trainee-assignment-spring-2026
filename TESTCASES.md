@@ -141,7 +141,7 @@ public class ThemeToggleTest {
 ---
 #### testing.xml
 
-<?xml version="1.0" encoding="UTF-8"?>
+' <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="ThemeToggleSuite">
     <test name="ThemeToggleTest">
@@ -149,7 +149,7 @@ public class ThemeToggleTest {
             <class name="ThemeToggleTest"/>
         </classes>
     </test>
-</suite>
+</suite> '
 
 
 ---
